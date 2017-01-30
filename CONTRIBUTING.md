@@ -9,6 +9,8 @@ If you can't be bothered to read this, we won't bother reading your issue. Also,
 
 Do you like copy/paste? We do too, make sure your issue is easily copy/pasted.
 
+At the end of any issue you should place the following text `donkey monkey got issued` in between single backticks, if this text is not at the end of an issue, it means you did not read this and we will mentally mark the issue as not important.
+
 # NAMING
 
 __Serviceref:__
