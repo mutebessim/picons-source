@@ -2,8 +2,12 @@
 
 When submitting an issue, make sure you follow these rules:
 
-- Entries to `srp-index` or `snp-index`, put them inside code blocks by using triple backticks ([help](https://guides.github.com/features/mastering-markdown)) or if they are really big, use a [gist](https://gist.github.com/).
+- Entries to `srp-index` or `snp-index`, put them inside code blocks by using **TRIPLE** backticks ([READ THIS](https://guides.github.com/features/mastering-markdown)) or if they are really big, use a [gist](https://gist.github.com/).
 - Logos should be inside an archive, correctly named (see below). Share the link.
+
+If you can't be bothered to read this, we won't bother reading your issue. Also, if a channel is gone, we don't really care if it went bankrupt, changed owner, got rebranded or whatever other valid reason. We only care about what references should be added to srp-index and snp-index.
+
+Do you like copy/paste? We do too, make sure your issue is easily copy/pasted.
 
 # NAMING
 
